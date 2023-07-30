@@ -1,0 +1,25 @@
+0 0
+0 1
+1 0
+1 1
+
+0
+0
+0
+1
+
+0
+1
+1
+1
+
+0
+1
+1
+0
+
+KEY
+Inputs
+Expected outputs for AND
+Expected outputs for OR
+Expected outputs for XOR
