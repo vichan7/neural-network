@@ -1,0 +1,2 @@
+# neural-network
+This repo contains an A-B-C-D network, which is a three-layer network with a configurable number of input activations, hidden activations, and outputs. The network can either run or train. When running, it propagates forward and calculates the outputs from input and weight values. When training, it uses backpropagation and gradient descent to modify weights until the average error is below a set error threshold, or the number of iterations is above the set maximum.
